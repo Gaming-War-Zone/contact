@@ -1,0 +1,1 @@
+web: gunicorn benedict-thankyou:app
